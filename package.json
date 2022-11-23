@@ -1,0 +1,19 @@
+{
+  "name": "minecraft-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/cannon": "^6.5.0",
+    "@react-three/drei": "^9.43.3",
+    "@react-three/fiber": "^8.9.1",
+    "nanoid": "^4.0.0",
+    "three": "^0.146.0",
+    "zustand": "^4.1.4"
+  }
+}
